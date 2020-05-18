@@ -9,7 +9,8 @@ Website for Music Artist "SALR". In this website fans will be able to learn more
 - YouTube video embeded in "Listen Page"
 - Spotify link in "Listen Page"
 - Shopping cart with total and subtotal values 
-- Ticketmaster Link to tourdates. 
+- Ticketmaster Link to tourdates.
+- Fully functional navbar redirecting you to each desired page
 
 ## Backlog
 
@@ -20,7 +21,11 @@ Website for Music Artist "SALR". In this website fans will be able to learn more
 - Listen Page
 - Shop Page 
 ## States y States Transitions
-
+- transition from home page Thisissal page
+- transition from home page to Tour Page
+- transition from home page to isten Page
+- transition from home page to Shop Page 
+- make the back command fully functional
 
 ## Task
 ### Create HTML:
